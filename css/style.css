@@ -693,6 +693,8 @@ Footer
     background-image: url("../images/mail.svg"); }
   .icon.icon-twitter {
     background-image: url("../images/twitter.svg"); }
+  .icon.icon-linkedin {
+    background-image: url("../images/linkedin.svg"); }
   .icon:hover {
     opacity: 0.7; }
 
